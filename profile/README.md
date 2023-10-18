@@ -13,6 +13,7 @@ Esta organización contiene toda la información relacionada con el Curso 2023 d
 ## Proyectos
 
 1. [Scheduler](https://github.com/Sistemas-Operativos-Matcom/proyecto-scheduler)
+2. [Memoria](https://github.com/Sistemas-Operativos-Matcom/proyecto-memoria)
 
 ### ¿Cómo se realiza la entrega de proyectos?
 
